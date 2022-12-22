@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Distilleria:jar">
+    <output-path>$USER_HOME$/Desktop/testserver/plugins</output-path>
+    <root id="archive" name="Distilleria.jar">
+      <element id="module-output" name="Distilleria" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/github/rysefoxx/inventory/RyseInventory-Plugin/1.5.5/RyseInventory-Plugin-1.5.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
