@@ -8,6 +8,8 @@ import java.util.Map;
 
 public class Main extends JavaPlugin {
     private static Main instance;
+
+    public static final String INV_NAME  = "Distilla";
     private final InventoryManager inventoryManager = new InventoryManager(this);
     @Override
     public void onEnable() {

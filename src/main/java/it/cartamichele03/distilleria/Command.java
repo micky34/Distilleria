@@ -28,7 +28,7 @@ public class Command implements CommandExecutor {
             pl.sendMessage("§cNon hai il permesso!");
             return true;
         }
-
+/*
         RyseInventory inv = RyseInventory.builder()
                 .title("This is a basic inventory")
                 .rows(3)
@@ -54,7 +54,9 @@ public class Command implements CommandExecutor {
                 })
                 .build(Main.getInstance());
 
-        inv.open(pl);
+        inv.open(pl);*/
+
+        Inventories.open(pl);
 
         return true;
     }

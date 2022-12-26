@@ -1,6 +1,6 @@
 name: it.cartamichele03.distilleria.Distilleria
 author: cartamichele03@gmail.com
-version: 1.0-alpha
+version: 1.0.1-alpha
 api-version: 1.18
 main: it.cartamichele03.distilleria.Main
 
